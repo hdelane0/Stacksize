@@ -23,20 +23,20 @@ log:
 stackSizes:
 
   # Balance the amount of processed food that can be carried in one inventory slot.
-  BREAD: 16
-  COOKED_BEEF: 16
-  COOKED_PORKCHOP: 16
-  BAKED_POTATO: 16
-  COOKED_CHICKEN: 16
-  COOKED_COD: 16
-  COOKED_MUTTON: 16
-  COOKED_RABBIT: 16
-  COOKED_SALMON: 16
-  PUMPKIN_PIE: 16
-  ENCHANTED_GOLDEN_APPLE: 16
-  GOLDEN_APPLE: 16
-  GOLDEN_CARROT: 16
-  APPLE: 16
+  BREAD: 64
+  COOKED_BEEF: 64
+  COOKED_PORKCHOP: 64
+  BAKED_POTATO: 64
+  COOKED_CHICKEN: 64
+  COOKED_COD: 64
+  COOKED_MUTTON: 64
+  COOKED_RABBIT: 64
+  COOKED_SALMON: 64
+  PUMPKIN_PIE: 64
+  ENCHANTED_GOLDEN_APPLE: 64
+  GOLDEN_APPLE: 64
+  GOLDEN_CARROT: 64
+  APPLE: 64
 
   # Make potions more useful by allowing multiple in one inventory slot.
   POTION: 4
@@ -58,4 +58,4 @@ stackSizes:
   TNT_MINECART: 4
   COMMAND_BLOCK_MINECART: 4
 
-  SADDLE: 16
+  SADDLE: 64
